@@ -8,5 +8,7 @@
 </head>
 <body>
 	<h1>main화면</h1>
+	<hr/>
+	<h2>이제화면을 변경해보자</h2>
 </body>
 </html>
